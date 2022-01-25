@@ -2,3 +2,6 @@
 *.xcf
 /**/*.png
 *.png
+/**/*.exe
+*.exe
+.vscode
