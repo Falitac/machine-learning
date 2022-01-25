@@ -4,4 +4,11 @@
 *.png
 /**/*.exe
 *.exe
-.vscode
+.vscode/*
+.vscode/*
+/**/*.txt
+*.txt
+/**/*.sh
+*.sh
+/**/*.mp4
+*.mp4
